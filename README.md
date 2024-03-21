@@ -1,1 +1,1 @@
-# cognifyz-technologies #internship #datascience 
+# cognifyz-technologies 
